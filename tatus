@@ -1,0 +1,30 @@
+*   [33mcommit 32c630ce3ad6418a701e1e88ff612d490721e2cc[m
+[31m|[m[32m\[m  Merge: 12b1aae 748df36
+[31m|[m [32m|[m Author: Nathalia Irokawa Fernandes <nathalia.iro.fernandes@gmail.com>
+[31m|[m [32m|[m Date:   Fri Oct 28 15:12:17 2016 -0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge com dev e resolução de conflito
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit 748df3646ae3b0712be490c54cdd9b7377dc2233[m
+[31m|[m [32m|[m Author: Nathalia Irokawa Fernandes <nathalia.iro.fernandes@gmail.com>
+[31m|[m [32m|[m Date:   Fri Oct 28 15:08:27 2016 -0200
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Dinheiro Adicionado
+[31m|[m [32m|[m   
+* [32m|[m [33mcommit 12b1aae19577d1689705d0e97dc960da2c7384f5[m
+[32m|[m[32m/[m  Author: Nathalia Irokawa Fernandes <nathalia.iro.fernandes@gmail.com>
+[32m|[m   Date:   Fri Oct 28 15:06:06 2016 -0200
+[32m|[m   
+[32m|[m       Idade Adicionada na Classe Lista
+[32m|[m  
+* [33mcommit ed987606b8019d068aefb884ca24cd240f0a65a8[m
+[32m|[m Author: Nathalia Irokawa Fernandes <nathalia.iro.fernandes@gmail.com>
+[32m|[m Date:   Fri Oct 28 14:59:59 2016 -0200
+[32m|[m 
+[32m|[m     Adicionado classe Lista
+[32m|[m  
+* [33mcommit 3cd16ac0c27160a58a8fa8557daeb8d5a5dec146[m
+  Author: Nathalia Irokawa Fernandes <nathalia.iro.fernandes@gmail.com>
+  Date:   Fri Oct 28 14:52:37 2016 -0200
+  
+      First Commit
