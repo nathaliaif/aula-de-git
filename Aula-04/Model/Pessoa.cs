@@ -9,5 +9,6 @@ namespace Aula_04.Model
     class Pessoa
     {
         int carros = 0;
+        string msg = "ESSA LINHA VAI VAZAR";
     }
 }
