@@ -10,5 +10,7 @@ namespace Aula_04.Model
     {
         public string vacilao = "Bruno";
         public int idade = 16;
+        public double dinheiro = 0.01;
+
     }
 }
