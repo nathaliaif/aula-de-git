@@ -9,5 +9,6 @@ namespace Aula_04.Model
     class Lista
     {
         public string vacilao = "Bruno";
+        public int idade = 16;
     }
 }
